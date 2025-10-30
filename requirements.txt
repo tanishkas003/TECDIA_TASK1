@@ -1,0 +1,9 @@
+numpy<2.0.0
+opencv-python
+scikit-image
+scipy
+tqdm
+joblib
+python-dotenv
+torch
+torchvision
