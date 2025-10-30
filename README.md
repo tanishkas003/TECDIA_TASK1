@@ -49,3 +49,9 @@ Notes:
 ### reconstructed_final.mp4 is the final result
 
 ### the reconstructed_basic.mp4 was the first trial where there was an issue with my code because of which a first few seconds of the video were in reverse so fixed that
+
+## 🎥 Reconstructed Video
+[Watch on Google Drive](https://drive.google.com/file/d/1UDRH4qE0GpN8nZj9tvgI5lpKCOimUHe8/view?usp=sharing)
+
+## 🧾 Execution Log
+[View timing_log.txt](https://drive.google.com/file/d/1WmEa1IPjqupaw41BRI3cuyBUTPMcbd5i/view?usp=sharing)
